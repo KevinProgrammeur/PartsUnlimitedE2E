@@ -447,7 +447,7 @@
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_AdminMenu.cshtml" />
-    <Content Include="Views\Shared\_Layoutv2.0.cshtml" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Shared\_Login.cshtml" />
     <Content Include="Views\Shared\_Order.cshtml" />
     <Content Include="Views\Shared\_OrdersSearch.cshtml" />
